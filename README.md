@@ -12,7 +12,6 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
 
 ### Linguagens e Tecnologias 🤖
 
-
 <img 
     align="left" 
     alt="HTML"
@@ -162,6 +161,7 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 ##
 
 ### Estatísticas 📊
@@ -175,6 +175,7 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
 </p>
 
 ##
-
+<div align="center">
 <a href="https://www.linkedin.com/in/eduardocesl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:lima.eduardocesl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
