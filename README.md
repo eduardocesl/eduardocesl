@@ -166,7 +166,7 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
 
 ### Estatísticas 📊
 
-<div align="left">
+<div align="center">
 <a>
   <img
     align="center"
