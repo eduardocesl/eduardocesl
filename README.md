@@ -164,17 +164,17 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
 />
 ##
 
-<a href="https://www.linkedin.com/in/eduardocesl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:lima.eduardocesl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 ### Estatísticas 📊
 <p>
   <img 
-    align="center" 
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=eduardocesl&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br" 
   />
-
 </p>
+
+##
+
+<a href="https://www.linkedin.com/in/eduardocesl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:lima.eduardocesl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
