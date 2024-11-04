@@ -172,7 +172,7 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
     alt="GitHub Stats" 
     width="42%" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eduardocesl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&show_icons=true" 
+    src="https://github-readme-stats.vercel.app/api?username=eduardocesl&theme=dark&hide_border=false&border_color=4caf61&include_all_commits=true&count_private=true&locale=pt-br&show_icons=true&rank_icon=github" 
   />
 </p>
 <p>
@@ -180,7 +180,7 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
         alt="GitHub Stats2"
         width="50%"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocesl&theme=dark&hide_border=true&layout=compact&include_all_commit=true&count_private=true&local=pt-br&show_icons=true&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocesl&theme=dark&hide_border=false&border_color=4caf61&layout=compact&include_all_commit=true&count_private=true&local=pt-br&show_icons=true&custom_title=Tecnologias&langs_count=9&border_radius=2.5"
     />
 </p>
 
