@@ -166,14 +166,20 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
 
 ### Estatísticas 📊
 
-<p>
+<div align="center">
   <img
     alt="GitHub Stats" 
-    width="42%" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=eduardocesl&theme=dark&hide_border=false&border_color=4caf61&include_all_commits=true&count_private=true&locale=pt-br&show_icons=true&rank_icon=github" 
   />
-</p>
+    <img 
+alt="GitHub Techs"
+height="150"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocesl&layout=compact&hide_progress=false&theme=dark&hide_border=false&border_color=4caf61&count_private=true&locale=pt-br"
+/>
+</div>
 
 ##
 <div align="center">
