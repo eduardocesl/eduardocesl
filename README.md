@@ -147,7 +147,6 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
 />
 
 <img  
-    align="left"
     alt="MySQL" 
     title="MySQL" 
     width="25px" 
