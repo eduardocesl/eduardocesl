@@ -154,13 +154,6 @@ Estou sempre em busca de aprimorar minhas habilidades, explorar novas ferramenta
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
-<img 
-    alt="Python" 
-    title="Python" 
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 ##
 
