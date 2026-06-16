@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-#### Meu nome é Eduardo Lima, tenho 27 anos e sou natural de Minas Gerais, Brasil.
+#### Meu nome é Eduardo Lima, tenho 29 anos e sou natural de Minas Gerais, Brasil.
 
 Atualmente, sou militar do Corpo de Bombeiros Militar de Minas Gerais e curso Análise e Desenvolvimento de Sistemas na PUC Minas.  
 Tenho paixão por tecnologia, especialmente nas áreas de Desenvolvimento de Software, Análise de Dados e Inteligência Artificial.  
